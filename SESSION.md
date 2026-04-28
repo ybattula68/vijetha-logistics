@@ -119,6 +119,7 @@ npm run dev
 | Apr 28 2026 | Home page buttons | Three floating buttons at bottom of home page — Coverage (left), Our Services (centre), Contact Us (right). Each opens a popup on click |
 | Apr 28 2026 | Home page hero | Title: "Sri Vijetha Logistics" on one line, "Hyderabad, India" below |
 | Apr 28 2026 | Login refresh bug | Fixed — useMemo was called after conditional return, violating React rules of hooks |
+| Apr 28 2026 | Marketing website | Built at /Desktop/vijetha-website — green theme, sections: About Us, Services, Coverage, Contact. Pushed to GitHub: ybattula68/vijetha-website |
 
 ---
 
@@ -130,9 +131,9 @@ npm run dev
 - [ ] Replace placeholder customer names in `src/data/customers.js`
 - [ ] Replace placeholder truck registrations in `src/data/trucks.js`
 - [ ] Confirm GPS provider and supply API credentials
-- [ ] Push project to GitHub (account: ybattula68)
+- [x] Pushed to GitHub — https://github.com/ybattula68/vijetha-logistics
 - [ ] Set up Supabase — real database + auth
-- [ ] Build marketing website for vijethalogistics.com
+- [x] Marketing website built — `/Users/yashwanthbattula/Desktop/vijetha-website` · https://github.com/ybattula68/vijetha-website · runs on http://localhost:5174
 - [ ] Deploy app + marketing site on Vercel
 - [ ] Purchase vijethalogistics.com domain
 - [ ] Driver dashboard view — own trip only (Phase 2)
