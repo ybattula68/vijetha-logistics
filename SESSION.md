@@ -121,7 +121,8 @@ npm run dev
 | Apr 28 2026 | Login refresh bug | Fixed — useMemo was called after conditional return, violating React rules of hooks |
 | Apr 28 2026 | Marketing website | Built at /Desktop/vijetha-website — light green theme, sections: About Us, Services, Coverage, Contact. Pushed to GitHub: ybattula68/vijetha-website |
 | Apr 28 2026 | Company name | Updated to Sri Vijetha Logistics LLP on website, logos, and footer |
-| Apr 28 2026 | Logo options | 6 logo designs created: Circle Tanker, Hexagon Shield, Leaf Emblem, Ethanol Drop, Bold Wordmark, Route Arrow |
+| Apr 28 2026 | Logo options | Redesigned 6 logos (circle+shape style like FleetUp): Bold V, Navigator, Location Pin, Compass, Forward Arrow, S-Mark |
+| Apr 28 2026 | Two-pin logo concept | User idea: 2 pins connected showing pickup→delivery→return. 4 variants built: P1 side arcs, P2 diagonal S-route, P3 oval loop, P4 stacked arrows |
 
 ---
 
