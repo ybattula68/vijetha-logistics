@@ -119,7 +119,9 @@ npm run dev
 | Apr 28 2026 | Home page buttons | Three floating buttons at bottom of home page — Coverage (left), Our Services (centre), Contact Us (right). Each opens a popup on click |
 | Apr 28 2026 | Home page hero | Title: "Sri Vijetha Logistics" on one line, "Hyderabad, India" below |
 | Apr 28 2026 | Login refresh bug | Fixed — useMemo was called after conditional return, violating React rules of hooks |
-| Apr 28 2026 | Marketing website | Built at /Desktop/vijetha-website — green theme, sections: About Us, Services, Coverage, Contact. Pushed to GitHub: ybattula68/vijetha-website |
+| Apr 28 2026 | Marketing website | Built at /Desktop/vijetha-website — light green theme, sections: About Us, Services, Coverage, Contact. Pushed to GitHub: ybattula68/vijetha-website |
+| Apr 28 2026 | Company name | Updated to Sri Vijetha Logistics LLP on website, logos, and footer |
+| Apr 28 2026 | Logo options | 6 logo designs created: Circle Tanker, Hexagon Shield, Leaf Emblem, Ethanol Drop, Bold Wordmark, Route Arrow |
 
 ---
 
